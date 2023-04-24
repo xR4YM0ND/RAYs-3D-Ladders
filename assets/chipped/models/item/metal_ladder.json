@@ -1,0 +1,6 @@
+{
+    "parent": "chipped:block/metal_ladder",
+    "textures": {
+      "layer0": "chipped:item/metal_ladder"
+    }
+}

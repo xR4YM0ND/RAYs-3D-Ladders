@@ -1,0 +1,6 @@
+{
+    "parent": "chipped:block/crooked_ropeplank_ladder",
+    "textures": {
+      "layer0": "chipped:item/crooked_ropeplank_ladder"
+    }
+}

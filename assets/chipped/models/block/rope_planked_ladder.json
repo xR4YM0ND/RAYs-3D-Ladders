@@ -1,0 +1,119 @@
+{
+	"credit": "Made with Blockbench by xR4YM0ND",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "chipped:block/ladder/rope_planked_ladder",
+		"particle": "chipped:block/ladder/rope_planked_ladder"
+	},
+	"elements": [
+		{
+			"from": [13, 0, 15],
+			"to": [14, 16, 16],
+			"faces": {
+				"north": {"uv": [2.5, 6.5, 3, 14.5], "texture": "#0"},
+				"east": {"uv": [2, 6.5, 2.5, 14.5], "texture": "#0"},
+				"south": {"uv": [3.5, 6.5, 4, 14.5], "texture": "#0"},
+				"west": {"uv": [3, 6.5, 3.5, 14.5], "texture": "#0"},
+				"up": {"uv": [3, 6.5, 2.5, 6], "texture": "#0"},
+				"down": {"uv": [3.5, 6, 3, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 0, 15],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [0.5, 6.5, 1, 14.5], "texture": "#0"},
+				"east": {"uv": [0, 6.5, 0.5, 14.5], "texture": "#0"},
+				"south": {"uv": [1.5, 6.5, 2, 14.5], "texture": "#0"},
+				"west": {"uv": [1, 6.5, 1.5, 14.5], "texture": "#0"},
+				"up": {"uv": [1, 6.5, 0.5, 6], "texture": "#0"},
+				"down": {"uv": [1.5, 6, 1, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 2, 14],
+			"to": [15, 5, 15],
+			"faces": {
+				"north": {"uv": [0.5, 4.5, 7.5, 6], "texture": "#0"},
+				"east": {"uv": [0, 4.5, 0.5, 6], "texture": "#0"},
+				"south": {"uv": [8, 4.5, 15, 6], "texture": "#0"},
+				"west": {"uv": [7.5, 4.5, 8, 6], "texture": "#0"},
+				"up": {"uv": [7.5, 4.5, 0.5, 4], "texture": "#0"},
+				"down": {"uv": [14.5, 4, 7.5, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 7, 14],
+			"to": [15, 10, 15],
+			"faces": {
+				"north": {"uv": [0.5, 2.5, 7.5, 4], "texture": "#0"},
+				"east": {"uv": [0, 2.5, 0.5, 4], "texture": "#0"},
+				"south": {"uv": [8, 2.5, 15, 4], "texture": "#0"},
+				"west": {"uv": [7.5, 2.5, 8, 4], "texture": "#0"},
+				"up": {"uv": [7.5, 2.5, 0.5, 2], "texture": "#0"},
+				"down": {"uv": [14.5, 2, 7.5, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 12, 14],
+			"to": [15, 15, 15],
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 7.5, 2], "texture": "#0"},
+				"east": {"uv": [0, 0.5, 0.5, 2], "texture": "#0"},
+				"south": {"uv": [8, 0.5, 15, 2], "texture": "#0"},
+				"west": {"uv": [7.5, 0.5, 8, 2], "texture": "#0"},
+				"up": {"uv": [7.5, 0.5, 0.5, 0], "texture": "#0"},
+				"down": {"uv": [14.5, 0, 7.5, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1.25, 4],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 1.25, 4],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, -36],
+			"translation": [3, 0.5, -6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -36],
+			"translation": [3, 0.5, -6]
+		},
+		"ground": {
+			"translation": [0, 2.25, -3.25],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [0, 180, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, 14.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -8]
+		}
+	},
+	"groups": [
+		{
+			"name": "rope",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "steps",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [2, 3, 4]
+		}
+	]
+}

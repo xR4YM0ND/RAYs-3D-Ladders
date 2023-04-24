@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/ladder",
+    "textures": {
+      "layer0": "minecraft:item/ladder"
+    }
+}
