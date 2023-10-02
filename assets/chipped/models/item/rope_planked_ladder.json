@@ -1,6 +1,3 @@
 {
-    "parent": "chipped:block/rope_planked_ladder",
-    "textures": {
-      "layer0": "chipped:item/rope_planked_ladder"
-    }
+    "parent": "chipped:block/rope_planked_ladder"
 }

@@ -1,6 +1,3 @@
 {
-    "parent": "chipped:block/mossy_ladder",
-    "textures": {
-      "layer0": "chipped:item/mossy_ladder"
-    }
+    "parent": "chipped:block/mossy_ladder"
 }

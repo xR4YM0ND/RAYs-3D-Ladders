@@ -1,6 +1,3 @@
 {
-    "parent": "chipped:block/strong_ladder",
-    "textures": {
-      "layer0": "chipped:item/strong_ladder"
-    }
+    "parent": "chipped:block/strong_ladder"
 }

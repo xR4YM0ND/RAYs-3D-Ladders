@@ -1,6 +1,3 @@
 {
-    "parent": "chipped:block/crooked_ladder",
-    "textures": {
-      "layer0": "chipped:item/crooked_ladder"
-    }
+    "parent": "chipped:block/crooked_ladder"
 }
