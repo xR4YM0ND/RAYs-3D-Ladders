@@ -1,0 +1,10 @@
+ 1 = oak
+ 2 = spruce
+ 3 = birch
+ 4 = jungle
+ 5 = acacia
+ 6 = dark oak
+ 7 = crimson
+ 8 = warped
+ 9 = mangrove
+10 = cherry

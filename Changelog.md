@@ -1,5 +1,11 @@
 # RAY's 3D Ladders Changelog
 
+## 1.2
+
+### Added:
+
+- Quark `4.0-458` Support
+
 ## 1.1
 
 ### Added:
