@@ -1,0 +1,7 @@
+{
+    "parent": "bbb:block/ladder/3d/style_9",
+    "textures": {
+        "particle": "bbb:block/ladder/mangrove/dark_oak",
+        "0": "bbb:block/ladder/mangrove/dark_oak"
+    }
+}

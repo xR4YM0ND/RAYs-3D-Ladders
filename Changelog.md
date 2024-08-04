@@ -4,6 +4,7 @@
 
 ### Added:
 
+- Building But Better `1.0.2` Support
 - Quark `4.0-458` Support
 
 ## 1.1

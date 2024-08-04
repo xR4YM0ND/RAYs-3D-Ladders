@@ -3,7 +3,7 @@
  3 = birch
  4 = jungle
  5 = acacia
- 6 = dark oak
+ 6 = dark_oak
  7 = crimson
  8 = warped
  9 = mangrove

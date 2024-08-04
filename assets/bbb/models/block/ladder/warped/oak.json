@@ -1,0 +1,7 @@
+{
+  "parent": "bbb:block/ladder/3d/style_1",
+  "textures": {
+    "particle": "bbb:block/ladder/oak/warped",
+    "0": "bbb:block/ladder/oak/warped"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "bbb:block/ladder/3d/style_2",
+    "textures": {
+        "particle": "bbb:block/ladder/spruce/birch",
+        "0": "bbb:block/ladder/spruce/birch"
+    }
+}
