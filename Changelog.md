@@ -1,5 +1,18 @@
 # RAY's 3D Ladders Changelog
 
+## 1.3
+
+### Changed:
+
+- Up to 4 different variants for vanilla & Nemo's ladders `// modded ladders will be reworked in future updates`
+- New folder system `// now category based instead of mod based`
+- Every object is now their own texture `// improves file size & performance / also improves particles`
+- New `pack.png` logo
+
+### Added:
+
+- Nemo's More Ladder Variants (MStV+) `1.0.3` Support
+
 ## 1.2
 
 ### Added:

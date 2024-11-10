@@ -1,0 +1,88 @@
+{
+    "variants": {
+        "facing=east": [
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_1",
+                "y": 90,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_2",
+                "y": 90,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_3",
+                "y": 90,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_4",
+                "y": 90,
+                "weight": 1
+            }
+        ],
+        "facing=north": [
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_1",
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_2",
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_3",
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_4",
+                "weight": 1
+            }
+        ],
+        "facing=south": [
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_1",
+                "y": 180,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_2",
+                "y": 180,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_3",
+                "y": 180,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_4",
+                "y": 180,
+                "weight": 1
+            }
+        ],
+        "facing=west": [
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_1",
+                "y": 270,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_2",
+                "y": 270,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_3",
+                "y": 270,
+                "weight": 1
+            },
+            {
+                "model": "rays_3d_ladders:block/standard/warped_ladder_4",
+                "y": 270,
+                "weight": 1
+            }
+        ]
+    }
+}
