@@ -14,6 +14,7 @@
 - Nemo's More Ladder Variants (MStV+) `1.0.3` Support `// includes Nemo's Carpentry Support`
 - Create `0.5.1 j` Support
 - Create Fabric `0.5.1 f build 1417` Support
+- Create Deco `2.0.2` Support
 
 ## 1.2
 

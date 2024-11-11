@@ -1,16 +1,14 @@
 {
 	"credit": "xR4YM0ND, Notch",
 	"textures": {
-		"0": "rays_3d_ladders:block/create/brass_rail_1",
-		"1": "rays_3d_ladders:block/create/brass_step_1",
-		"2": "rays_3d_ladders:block/create/brass_step_2",
-		"3": "rays_3d_ladders:block/create/brass_step_3",
-		"4": "rays_3d_ladders:block/create/brass_step_4",
-		"5": "rays_3d_ladders:block/create/brass_rail_2",
-		"6": "rays_3d_ladders:block/create/brass_support_1",
-		"7": "rays_3d_ladders:block/create/brass_hoop_1",
-		"8": "rays_3d_ladders:block/create/brass_hoop_2",
-		"particle": "rays_3d_ladders:block/create/brass_step_1"
+		"0": "blank",
+		"1": "blank",
+		"2": "blank",
+		"3": "blank",
+		"4": "blank",
+		"5": "blank",
+		"6": "blank",
+		"particle": "blank"
 	},
 	"elements": [
 		{
