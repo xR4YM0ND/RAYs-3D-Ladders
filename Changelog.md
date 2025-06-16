@@ -1,5 +1,13 @@
 # RAY's 3D Ladders Changelog
 
+## 1.4
+
+### Updated:
+- Version `1.0.5` Nemo's More Ladder Variants (MStV+) `// added pale_oak`
+
+### Added:
+- Woodworks `4.0.1` Support `// models from bbb compat`
+
 ## 1.3
 
 ### Changed:

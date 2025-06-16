@@ -14,13 +14,14 @@ This Resourcepack changes Block & Item Textures for Ladders in Minecraft.
 - [Quark](https://modrinth.com/mod/quark)
 - [Speedy Ladders](https://www.curseforge.com/minecraft/mc-mods/speedy-ladders)
 - [Vanilla](https://minecraft.wiki/w/Ladder)
+- [Woodworks](https://modrinth.com/mod/woodworks)
 
 If you want support for other mods let me know.
 
 ## Credits
 
-<a href="https://discord.gg/2peBqWRwVp" target="_blank">
-<img alt="Discord Globox_Hood" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
+<a href="https://discord.gg/WXdSYn4yHB" target="_blank">
+<img alt="Discord Fabricated Atelier" src="https://img.shields.io/discord/745451299713056791?color=7289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/RAYs-3D-Ladders/blob/main/LICENSE" target="_blank">
 <img alt="GitHub License" src="https://img.shields.io/github/license/xR4YM0ND/RAYs-3D-Ladders?style=for-the-badge"></a>
 <a href="https://github.com/xR4YM0ND/RAYs-3D-Ladders/tree/main" target="_blank">
