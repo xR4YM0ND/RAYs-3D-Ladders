@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,waterlogged=false": {
+      "model": "bbb:block/ladder/3d/style_4",
+      "y": 90
+    },
+    "facing=east,waterlogged=true": {
+      "model": "bbb:block/ladder/3d/style_4",
+      "y": 90
+    },
+    "facing=north,waterlogged=false": {
+      "model": "bbb:block/ladder/3d/style_4"
+    },
+    "facing=north,waterlogged=true": {
+      "model": "bbb:block/ladder/3d/style_4"
+    },
+    "facing=south,waterlogged=false": {
+      "model": "bbb:block/ladder/3d/style_4",
+      "y": 180
+    },
+    "facing=south,waterlogged=true": {
+      "model": "bbb:block/ladder/3d/style_4",
+      "y": 180
+    },
+    "facing=west,waterlogged=false": {
+      "model": "bbb:block/ladder/3d/style_4",
+      "y": 270
+    },
+    "facing=west,waterlogged=true": {
+      "model": "bbb:block/ladder/3d/style_4",
+      "y": 270
+    }
+  }
+}

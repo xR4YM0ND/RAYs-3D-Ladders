@@ -2,13 +2,14 @@
 
 This Resourcepack changes Block & Item Textures for Ladders in Minecraft.  
 
-## Supported Mods:  
+## Supported Mods:
 
 - [Building But Better](https://modrinth.com/mod/building-but-better)
 - [Chipped](https://modrinth.com/mod/chipped)
 - [Create](https://modrinth.com/mod/create)
 - [Create Deco](https://modrinth.com/mod/create-deco)
 - [Create Fabric](https://modrinth.com/mod/create-fabric)
+- [Excessive Building](https://modrinth.com/mod/excessive-building)
 - [Nemo's Carpentry](https://modrinth.com/mod/nemos-carpentry)
 - [Nemo's More Ladder Variants](https://modrinth.com/mod/nemos-more-ladder-variants)
 - [Quark](https://modrinth.com/mod/quark)
