@@ -1,5 +1,23 @@
 # RAY's 3D Ladders Changelog
 
+## 2.0
+
+This took quite a while to get my head around.  
+Finally i added **LabPBR shader support** via specular maps.
+
+I used [LabPBR Material Standard](https://shaderlabs.org/wiki/LabPBR_Material_Standard#Specular_Texture_(_s)) as a preset for the specular maps and build on it.
+
+Actual values used - *if someone is interested* - can be found [here](https://github.com/xR4YM0ND/RAYs-3D-Ladders/blob/main/assets/rays_3d_ladders/info_material.md).  
+`// Note that it highly depends on the shader and their LabPBR settings`
+
+*Currently **specular maps** are supported for all textures with multiple variants.*
+
+### Added:
+- LabPBR Shader support `// for all existing "multiple variants"`
+
+### Fixed:
+- RP won't load due to unsupported characters in filename `// removed filename colors`
+
 ## 1.5
 
 ### Added:
