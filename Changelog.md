@@ -1,5 +1,10 @@
 # RAY's 3D Ladders Changelog
 
+## 2.1
+
+### Fixed:
+- Excessive Buildings -> forgot birch ladder `// thx @MARROM`
+
 ## 2.0
 
 This took quite a while to get my head around.  
