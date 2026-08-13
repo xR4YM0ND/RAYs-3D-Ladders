@@ -2,7 +2,11 @@
 
 ## 2.1
 
+### Added:
+- Carved Wood `1.9.7-B` Support `// 4 variants + LabPBR`
+
 ### Fixed:
+- pack.mcmeta not working for formats above 64 `// the RP now works for all versions again`
 - Excessive Buildings -> forgot birch ladder `// thx @MARROM`
 
 ## 2.0

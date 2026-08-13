@@ -1,9 +1,5 @@
 <center>
 
-<a href="https://www.serveratelier.com" target="_blank">
-    <img src="https://www.serveratelier.com/assets/themes/atelier/assets/images/banner/sa_budget.png" alt="Get your Budget Gameserver today at ServerAtelier">
-</a>
-
 ![rays 3d ladders title wide](https://cdn.modrinth.com/data/cached_images/f618f13b774f4c49c67e995b32e234cf3e77cc2f.png)
 
 This Resourcepack changes Block & Item Textures for Ladders in Minecraft.  
@@ -15,6 +11,7 @@ It doesn't add any items or blocks itself, it overwrites the model of existing l
 </center>
 
 - [Building But Better](https://modrinth.com/mod/building-but-better) `// LabPBR`
+- [Carved Wood](https://modrinth.com/mod/carved-wood) `// variants + LabPBR`
 - [Chipped](https://modrinth.com/mod/chipped) `// LabPBR`
 - [Create](https://modrinth.com/mod/create) `// LabPBR`
 - [Create Deco](https://modrinth.com/mod/create-deco) `// LabPBR`
