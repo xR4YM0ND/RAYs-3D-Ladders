@@ -1,0 +1,10 @@
+{
+  "parent": "rays_3d_ladders:block/recarved/spruce_ladder_1",
+  "textures": {
+    "step_1": "rays_3d_ladders:block/everycomp/wilderwild/cypress_step_2",
+    "step_2": "rays_3d_ladders:block/everycomp/wilderwild/cypress_step_4",
+    "step_3": "rays_3d_ladders:block/everycomp/wilderwild/cypress_step_1",
+    "step_4": "rays_3d_ladders:block/everycomp/wilderwild/cypress_step_3",
+    "particle": "rays_3d_ladders:block/everycomp/wilderwild/cypress_step_1"
+  }
+}

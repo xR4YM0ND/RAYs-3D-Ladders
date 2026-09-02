@@ -53,3 +53,9 @@ Red   80  #505050
 Green 0  
 Blue  0  
 Alpha 255  
+
+- **Plant**
+Red   25
+Green 0
+Blue  52
+Alpha 255

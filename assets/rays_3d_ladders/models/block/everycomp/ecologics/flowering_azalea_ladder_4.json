@@ -1,0 +1,9 @@
+{
+  "parent": "rays_3d_ladders:block/everycomp/ecologics/flowering_azalea_ladder_1",
+  "textures": {
+    "step_1": "rays_3d_ladders:block/everycomp/ecologics/azalea_step_4",
+    "step_2": "rays_3d_ladders:block/everycomp/ecologics/azalea_step_3",
+    "step_3": "rays_3d_ladders:block/everycomp/ecologics/azalea_step_2",
+    "step_4": "rays_3d_ladders:block/everycomp/ecologics/azalea_step_1"
+  }
+}
