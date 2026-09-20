@@ -1,5 +1,11 @@
 # RAY's 3D Ladders Changelog
 
+## 2.3
+
+### Added:
+- Burnt `1.10.5` Support `// 4 variants + LabPBR`
+- Everything is Copper `2.4.5` Support `// 4 variants + LabPBR`
+
 ## 2.2
 
 ### Added:

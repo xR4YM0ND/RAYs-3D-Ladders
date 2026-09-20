@@ -2,20 +2,22 @@
 
 ![rays 3d ladders title wide](https://cdn.modrinth.com/data/cached_images/f618f13b774f4c49c67e995b32e234cf3e77cc2f.png)
 
-This Resourcepack changes Block & Item Textures for Ladders in Minecraft.  
-Support for shaders since version 2.0  
+This Resourcepack changes Block & Item model textures for Ladders in Minecraft.  
+Support for LabPBR shaders since version 2.0
 
-It doesn't add any items or blocks itself, it overwrites the model of existing ladders from mods listed below & vanilla.  
+It doesn't add any items or blocks itself, it overwrites models / blockstates & textures of existing ladders from mods listed below & vanilla.
 
 ## Supported Mods:
 </center>
 
 - [Building But Better](https://modrinth.com/mod/building-but-better) `// LabPBR`
+- [Burnt](https://modrinth.com/mod/burnt-basic) `// variants + LabPBR`
 - [Carved Wood](https://modrinth.com/mod/carved-wood) `// variants + LabPBR`
 - [Chipped](https://modrinth.com/mod/chipped) `// LabPBR`
 - [Create](https://modrinth.com/mod/create) `// LabPBR`
 - [Create Deco](https://modrinth.com/mod/create-deco) `// LabPBR`
 - [Create Fabric](https://modrinth.com/mod/create-fabric) `// LabPBR`
+- [Everything is Copper](https://modrinth.com/mod/everythingcopper) `// variants + LabPBR`
 - [Every Compat (Wood Good)](https://modrinth.com/mod/every-compat) `// variants + LabPBR`
 - [Excessive Building](https://modrinth.com/mod/excessive-building) `// variants + LabPBR`
 - [Nemo's Carpentry](https://modrinth.com/mod/nemos-carpentry) `// variants + LabPBR`

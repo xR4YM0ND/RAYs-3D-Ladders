@@ -1,0 +1,72 @@
+{
+  "variants": {
+    "facing=east": [
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_1",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_2",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_3",
+        "y": 90
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_4",
+        "y": 90
+      }
+    ],
+    "facing=north": [
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_1"
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_2"
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_3"
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_4"
+      }
+    ],
+    "facing=south": [
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_1",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_2",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_3",
+        "y": 180
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_4",
+        "y": 180
+      }
+    ],
+    "facing=west": [
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_1",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_2",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_3",
+        "y": 270
+      },
+      {
+        "model": "rays_3d_ladders:block/standard/burnt_ladder_4",
+        "y": 270
+      }
+    ]
+  }
+}
