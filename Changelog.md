@@ -1,5 +1,14 @@
 # RAY's 3D Ladders Changelog
 
+## 2.4
+
+### Added:
+- Atmospheric `7.0.1` Support `// 1 variant + LabPBR`
+- Autumnity `6.0.1` Support `// 1 variant + LabPBR`
+- Caverns and Chasms `3.0.1` Support `// 1 variant + LabPBR`
+- Environmental `5.0.1` Support `// 1 variant + LabPBR`
+- Upgrade Aquatic `7.0.2` Support `// 1 variant + LabPBR`
+
 ## 2.3
 
 ### Added:
